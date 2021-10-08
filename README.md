@@ -1,3 +1,4 @@
+![election_banner](resources/election_banner.png)
 # Colorado Election Analysis
 
 ## Project Overview
